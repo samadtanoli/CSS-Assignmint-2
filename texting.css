@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+  }
+
+  h1 {
+    color: darkred;
+    background-color: rgb(247, 200, 194);
+  }
+
+  p {
+    color: rgb(63, 53, 53);
+  }
+
+  ul>li>a {
+    color: forestgreen;
+    background-color: rgb(206, 239, 206);
+  }
+
+  .para {
+    color: rgb(214, 214, 21);
+    background-color: rgb(170, 170, 81);
+  }
